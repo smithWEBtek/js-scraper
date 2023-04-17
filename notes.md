@@ -1,6 +1,8 @@
 tutorial here: 
 https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/
 
+Planet Fitness list:
+https://frugalreality.com/planet-fitness-workout-equipment-list/
 
 machineTypes = [
   'Arms Workout Machines',
@@ -22,7 +24,7 @@ descriptions = [
   ' – Targets your triceps, deltoids, and pectorals to strengthen and build muscle tissue.',
   ' – Strengthens and builds a muscular back.',
 
-  
+
   ' – The machine is designed to target your abs and help you build a six-pack.',
   ' – It improved your grip strength, shoulder stability, and mobility and target your front abs and hip flexors.',
   ' – The downward angle works your lower pectoral muscles.',
